@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!-- 使用mybatisplus的分页插件，不建议在这配置，建议在spring配置文件中配置 -->
+    <!--<plugins>
+        <plugin interceptor="com.baomidou.mybatisplus.plugins.PaginationInterceptor"/>
+    </plugins>-->
+</configuration>
